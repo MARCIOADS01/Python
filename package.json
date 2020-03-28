@@ -1,0 +1,6 @@
+{
+  "name": "backend-registration",
+  "version": "0.0.50",
+  "description": "",
+  "main": "src/index.js"
+}
